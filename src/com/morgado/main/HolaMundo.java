@@ -1,6 +1,7 @@
 package com.morgado.main;
 
 import com.morgado.circunferencia.PerimetroCircunferencia;
+import com.morgado.instancia.PruebaInstancia;
 
 import java.util.Scanner;
 
