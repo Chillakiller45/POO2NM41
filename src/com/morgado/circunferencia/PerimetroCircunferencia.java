@@ -1,10 +1,3 @@
-/**
- * Test Method
- * * Important information is highlighted
- * ! Deprecated method, do not use
- * ? Should this method be exposed through API?
- * @param param The parameter for this method
- **/
 package com.morgado.circunferencia;
 
 public class PerimetroCircunferencia {
