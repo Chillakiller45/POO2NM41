@@ -1,3 +1,10 @@
+/**
+ * Test Method
+ * * Important information is highlighted
+ * ! Deprecated method, do not use
+ * ? Should this method be exposed through API?
+ * @param param The parameter for this method
+ **/
 package com.morgado.circunferencia;
 
 public class PerimetroCircunferencia {
@@ -17,6 +24,11 @@ public class PerimetroCircunferencia {
         System.out.println(perimetro);
     }
 
+    /**
+     * * Método para dar el resultado según un radio dínamico
+     * ! no usar sin agregar 'static'
+     * @param radio
+     */
     public void devolverPerimetro(double radio) {
         double perimetro = 2.0*Math.PI*radio;
 
